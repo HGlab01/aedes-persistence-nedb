@@ -29,7 +29,7 @@
   "devDependencies": {
     "aedes": "^0.42.1",
     "concat-stream": "^2.0.0",
-    "faucet": "0.0.1",
+    "faucet": "0.0.4",
     "mqemitter": "^5.0.0",
     "pre-commit": "^1.1.2",
     "tape": "^5.6.3",
